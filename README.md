@@ -1,24 +1,2 @@
-# FirmwareVersion
-
-## PicoZense TOF camera FirmwareVersion
-
-### Supported Devices
-
-- DCAM710
-- DCAM800
-- DCAM305
-
-### Resources
-
-- Homepage: [https://www.picozense.com/en/] , [https://www.picozense.com]
-- Order: [https://www.picozense.com/en/about.html?about=contact]
-- Docs:
-- Develop tools: [https://www.picozense.com/en/sdk.html]
-- Q&A forum: 
-- 
-
-#### Summary of the guidelines:
-
-- Choose the right base branch;
-
-- Include sample project and documentation;
+# This repository is no longer maintained.
+Please visit new repository: https://github.com/Vzense/DeviceFirmware-List or https://gitee.com/Vzense/DeviceFirmware-List
